@@ -9,5 +9,6 @@ Ce programme calcule l'impôt sur le revenu en fonction de tranches prédéfinie
 
 ## Comment utiliser
 1. Clonez le dépôt.
-2. Compilez avec `g++ main.cpp impot.cpp -o impot`.
-3. Exécutez avec `./impot`.
+2. Compilez avec `g++ main.cpp taxe
+3. .cpp -o impot`.
+4. Exécutez avec `./impot`.
